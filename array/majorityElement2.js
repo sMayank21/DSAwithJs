@@ -72,5 +72,5 @@ function majorityElement(nums) {
   if(cnt2 > min) ans.push(el2);
   return ans;
 }
-console.log(majorityElement([1,1,1,2,2,3,2,2]));
+console.log(majorityElement([1,2]));
 
